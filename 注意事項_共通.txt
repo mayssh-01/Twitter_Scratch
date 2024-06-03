@@ -13,7 +13,7 @@
 
 [概要]
 このリストは、Scratch（https://scratch.mit.edu/）・Twitter（現:X）（https://twitter.com/）双方のアカウントを所持しているユーザーを記載したものである。
-ファイルの種類は「Normal」「Advanced」の二種類ある。
+ファイルの種類は「Normal」「Advanced」の二種類がある。
 
 [リストの見方]
 列の先頭が青く塗られているものはTwitter関連のデータ、橙色に塗られているものはScratch関連のデータを表す。
